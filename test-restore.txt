@@ -1,1 +1,2 @@
 This is my modified text
+Learning git staging area
