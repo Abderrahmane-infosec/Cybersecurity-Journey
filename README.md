@@ -12,3 +12,5 @@ My personal cybersecurity learning journey.
 - Practice defensive security
 - Learn Python for cybersecurity
 - Learning Git and Github
+- Learning Git Pull from GitHub
+- Learning Git Fetch
